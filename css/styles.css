@@ -1,0 +1,155 @@
+.column-ns8_status {
+    width: 80px;
+}
+
+#ns8csp_order_meta_box .inside {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    padding-bottom:6px !important;
+}
+
+.ns8-order-metabox-actions {
+    border-top: 1px solid #ddd;
+    height: 25px;
+    margin-top: 4px;
+    vertical-align: middle;
+    padding-top:7px !important;
+}
+
+.ns8-metabox-icon {
+    font-size: 1.4em;
+    position: relative;
+    top: 4px;
+}
+
+.ns8-order-metabox-section {
+    padding: 4px 10px 4px 10px;
+}
+
+.ns8-order-grid-cell {
+    display: inline-block;
+    text-align: center;
+    border-radius: 2px;
+    white-space: nowrap;
+    padding: 0 5px;
+    width: 60px;
+    height: 20px
+}
+
+.ns8-order-grid-cell a:link {
+    color: #fff;
+}
+
+.ns8-order-grid-score {
+    padding-right: 5px;
+    width: 32px;
+    display: inline-block;
+    border-right: 1px solid rgba(255, 255, 255, 0.2);
+    line-height: 19px;
+    vertical-align: top;
+}
+
+.ns8-order-grid-icon {
+    width: 22px;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 19px;
+    margin-top: 1px;
+}
+
+.ns8-order-grid-resolved {
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 19px;
+}
+
+.ns8-accept-badge {
+    background-color: rgb(115, 167, 36);
+    color: #fff;
+}
+
+.ns8-approved-badge {
+    background-color: rgb(115, 167, 36);
+    color: #fff;
+}
+
+.ns8-cancel-badge {
+    background-color: rgb(170, 0, 0);
+    color: #fff;
+}
+
+.ns8-canceled-badge {
+    background-color: rgb(170, 0, 0);
+    color: #fff;
+}
+
+.ns8-investigate-badge {
+    background-color: rgb(255, 192, 23);
+    color: #fff;
+}
+
+.ns8-accept-icon:before {
+    font-family: 'dashicons';
+    transition: color 0.1s linear;
+    color: #fff;
+    content: '\f147';
+}
+
+.ns8-accept-icon-text:before {
+    font-family: 'dashicons';
+    color: rgb(115, 167, 36);
+    content: '\f147';
+}
+
+.ns8-approved-icon:before {
+    font-family: 'dashicons';
+    transition: color 0.1s linear;
+    color: #fff;
+    content: '\f147';
+}
+
+.ns8-approved-icon-text:before {
+    font-family: 'dashicons';
+    color: rgb(115, 167, 36);
+    content: '\f147';
+}
+
+.ns8-investigate-icon:before {
+    font-family: 'dashicons';
+    transition: color 0.1s linear;
+    color: #fff;
+    content: "\f534";
+}
+
+.ns8-investigate-icon-text:before {
+    font-family: 'dashicons';
+    color: rgb(255, 192, 23);
+    content: "\f534";
+}
+
+.ns8-cancel-icon:before {
+    font-family: 'dashicons';
+    transition: color 0.1s linear;
+    color: #fff;
+    content: '\f158';
+}
+
+.ns8-cancel-icon-text:before {
+    font-family: 'dashicons';
+    color: rgb(170, 0, 0);
+    content: '\f158';
+}
+
+.ns8-canceled-icon:before {
+    font-family: 'dashicons';
+    transition: color 0.1s linear;
+    color: #fff;
+    content: '\f158';
+}
+
+.ns8-canceled-icon-text:before {
+    font-family: 'dashicons';
+    color: rgb(170, 0, 0);
+    content: '\f158';
+}
